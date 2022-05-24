@@ -9,3 +9,6 @@ The first line of the Input file **must**  be the number of  particles N
 The second line of the Input file **must** be the Radious R
 The rest are lines  The Planet's (x,y,Vx,Vy,Mass,Name)
 
+The Inputs are Scanner and its like compiling it as
+
+./main inputfile.txt [times_to_run] outputfile.txt [numOfThreads]
